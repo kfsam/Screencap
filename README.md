@@ -1,1 +1,1 @@
-# ScreencapInLanbda
+# ScreencapInLambda
